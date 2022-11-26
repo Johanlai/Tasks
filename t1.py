@@ -17,3 +17,7 @@ for i in np.arange(-1,25):
         print(f'Hour {i} is in the {partof_day(i)}')
     else:
         print(partof_day(i))
+        
+        
+        
+    This should be updated
