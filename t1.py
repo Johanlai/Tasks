@@ -18,15 +18,3 @@ for i in np.arange(-1,25):
     else:
         print(partof_day(i))
         
-        
-        
-    This should be updated
-Hey 
-wgaksdj
-ad
-sdf sf
-sfsd
-sda
-8564564
-56456465464
-564564
